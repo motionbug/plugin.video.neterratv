@@ -64,8 +64,8 @@ class neterra:
     USEROPTIONTIMESHIFT = 'type_view=timeshift&choice_view=1' #sets view to small icons
     DEFAULTPOSTSETTINGS = 'offset=0&category=&date=&text=' #default options
     #flashplayer settings
-    SWFPLAYERURL = 'swfurl=http://www.neterra.tv/players/flowplayer/flowplayer.commercial-3.2.16.swf' 
-    SWfVfy = 'swfVfy=http://www.neterra.tv/players/flowplayer/flowplayer.commercial-3.2.16.swf'
+    SWFPLAYERURL = 'swfurl=http://www.neterra.tv/players/flowplayer/flowplayer.commercial-3.2.18.swf' 
+    SWfVfy = 'swfVfy=http://www.neterra.tv/players/flowplayer/flowplayer.commercial-3.2.18.swf'
     SWFBUFFERDEFAULT = 'buffer=3000'
     SWFPAGEURL='pageurl=http://www.neterra.tv/content'
     ISLOGGEDINSTR = 'var LOGGED = ''1'';'
